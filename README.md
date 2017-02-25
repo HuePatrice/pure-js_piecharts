@@ -6,3 +6,6 @@ I have discovered how to build pie charts with this code. Only for homework purp
 
 #Source
 Based on the tutorial of Code.tutsplus.com(https://code.tutsplus.com/tutorials/how-to-draw-a-pie-chart-and-doughnut-chart-using-javascript-and-html5-canvas--cms-27197)
+
+#Demo
+See it live on Codepen(http://codepen.io/Pat_Is_Coding/pen/MpYqgv)
